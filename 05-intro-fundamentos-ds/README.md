@@ -1,2 +1,2 @@
-# dsc_fev2018
+# Introdução e Fundamentos de Data Science
 Material da aula 05 - Introdução e Fundamentos de Data Science.
