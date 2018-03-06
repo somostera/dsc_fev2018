@@ -13,7 +13,7 @@ Material da aula 06 - Introdução a Machine Learning com Decision Trees.
 8. Classic Iris flower dataset: https://en.wikipedia.org/wiki/Iris_flower_data_set
 9. Tool-set jupyter notebooks: http://jupyter.org/
 10. Tool-set scikit-learn: http://scikit-learn.org/stable/index.html
-11. Tool-se numpy: http://www.numpy.org/#
+11. Tool-set numpy: http://www.numpy.org/#
 12. Tool-set pandas: https://pandas.pydata.org/
 
 ### Pós-aula
