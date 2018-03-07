@@ -1,5 +1,5 @@
 # Introdução a Orientação a Objetos e Numpy
-Material da aula 05.
+Material da aula 07.
 
 ## Material de referência
 
