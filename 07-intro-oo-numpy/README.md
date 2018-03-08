@@ -1,5 +1,12 @@
 # Introdução a Orientação a Objetos e Numpy
-Material da aula 05.
+Material da aula 07.
+
+## Informações do Instrutor
+![Infos do Instrutor](images/info_instrutor.png)
+
+* E-Mail: `allandieguez@gmail.com`
+* Slack: `@allandieguez`
+* LinkedIn: `https://www.linkedin.com/in/allan-dieguez-a05a741b`
 
 ## Material de referência
 
