@@ -12,7 +12,6 @@ Material da aula 10.
 
 ### Pré-Aula:
 1. Tutoriais: Estudar todos os tutoriais na pasta `Pré-Aula`, executando linha a linha e levantando dúvidas para serem tiradas em aula. A aula será focada na solução de desafios e espera-se que todos os alunos já tenham estudado o material previamente.
-
 2. Introdução às Libs:
 	- Matplotlib: 
 		- Homepage: https://matplotlib.org/
@@ -47,4 +46,5 @@ Material da aula 10.
 	- Case 1: http://blog.kaggle.com/2017/04/10/exploring-the-structure-of-high-dimensional-data-with-hypertools-in-kaggle-kernels
 	- Case 2: http://blog.kaggle.com/2016/11/17/painter-by-numbers-competition-1st-place-winners-interview-nejc-ilenic
 4. Visualização com Bokeh: https://www.datacamp.com/courses/interactive-data-visualization-with-bokeh
-5. Métricas de Comparação de Séries: 
+5. Jaccard e Tanimoto para Comparação de Séries: https://en.wikipedia.org/wiki/Jaccard_index
+6. Principal Component Analysis: https://en.wikipedia.org/wiki/Principal_component_analysis
