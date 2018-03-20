@@ -35,3 +35,7 @@ Material da aula 12 - How to get data: SQL Queries & APIs
 [Derek Banas - SQLite3 tutorial 3](https://www.youtube.com/watch?v=jKpeHIyMotg)
 
 [Derek Banas - SQLite3 tutorial 4](https://www.youtube.com/watch?v=07nBszNiwU8)
+
+[Como usar NoSql (MongoDb) com Python utilizando PyMongo](https://realpython.com/introduction-to-mongodb-and-python/)
+
+[Como conectar em APIs usando oAuth](https://stackoverflow.com/questions/11085341/i-need-simple-python-oauth-example)
