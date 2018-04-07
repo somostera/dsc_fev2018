@@ -1,5 +1,5 @@
-# Random Forests & Ensembles
-Material da Aula 22 - Random Forests & Ensembles.
+# Decision Trees & Ensembles
+Material da Aula 22 - Decision Trees & Ensembles.
 ​
 ## Pré-aula
 ​
