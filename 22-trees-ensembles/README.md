@@ -11,12 +11,20 @@ Material da Aula 22 - Decision Trees & Ensembles.
 
 - E para os que tem um pouco mais de tempo disponível, uma aula bem legal do Nando de Freitas sobre florestas aleatórias: https://www.youtube.com/watch?v=3kYujfDgmNk
 
-## Pós aula
 
-- http://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/
-- https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk&index=2
-- https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/
-- http://vision.stanford.edu/teaching/cs231n-demos/knn/
-- https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=0ea5e572-f2da-4f3f-b54b-df4edf9a1106
-- https://members.loria.fr/moberger/Enseignement/Master2/Exposes/beyer.pdf
+​
+## Pós-aula
+​
+- Página do SKLearn sobre árvores de decisão. Em especial a seção de `Tips on practical use` é bem interessante: http://scikit-learn.org/stable/modules/tree.html
 
+- Aplicações no mercado de ações (em R): https://www.quantinsti.com/blog/use-decision-trees-machine-learning-predict-stock-movements/ 
+
+- Mais dicas para treinar e otimizar parâmetros: https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/
+
+-	Conselhos práticas para se utilizar florestas aleatórias: http://afiodorov.github.io/2016/05/05/practical-advice-for-random-forests/
+
+- Tutorial sobre stacking bem completo: https://machinelearningmastery.com/implementing-stacking-scratch-python/
+
+- Um tutorial em ensembling com enfoque em competições de ML. O autor é um Kaggle Master que trabalha no Nubank como cientista de dados: https://mlwave.com/kaggle-ensembling-guide/
+
+-	Gini vs Information Gain: https://www.unine.ch/files/live/sites/imi/files/shared/documents/papers/Gini_index_fulltext.pdf
