@@ -11,6 +11,7 @@ Material da Aula 22 - Decision Trees & Ensembles.
 
 - E para os que tem um pouco mais de tempo disponível, uma aula bem legal do Nando de Freitas sobre florestas aleatórias: https://www.youtube.com/watch?v=3kYujfDgmNk
 
+
 ​
 ## Pós-aula
 ​
