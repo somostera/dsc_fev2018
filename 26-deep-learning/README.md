@@ -1,5 +1,5 @@
 # Intro to AI & Deep Learning
-Material da Aula 27 - Intro to AI & Deep Learning
+Material da Aula 26 - Intro to AI & Deep Learning
 
 ## Pré-aula
 
