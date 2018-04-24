@@ -17,4 +17,4 @@ Material da Aula 28 - Natural Language Processing & Sentiment Analysis
 
 - [Vectors - What are They](https://www.youtube.com/watch?v=fNk_zzaMoSs&index=2&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-- [Abstract Vector Space](https://www.youtube.com/watch?v=8S3qHHUKqYk)
+- [Abstract Vector Space](https://youtu.be/TgKwz5Ikpc8)
