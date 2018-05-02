@@ -15,3 +15,6 @@ A aula de topic analysis utilizará muito dos conceitos de algebra linear desses
 ### Opcional
 - Dimensionality Reduction - ~10 mins - https://www.youtube.com/watch?v=jPmV3j1dAv4
 - The Curse of Dimensionality - ~27 mins - https://medium.freecodecamp.org/the-curse-of-dimensionality-how-we-can-save-big-data-from-itself-d9fa0f872335
+
+### Datasets
+[link](https://drive.google.com/open?id=13Ii2-9VBPCxH_L7vRZNnMkhnFkA3QdTr)
